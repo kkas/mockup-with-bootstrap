@@ -1,0 +1,100 @@
+/* Default text color setting. */
+body {
+  color: #d0c4ab;
+}
+
+/* Thickening horizontal lines. */
+hr {
+  margin: 10px 0;
+  border-bottom: 3px solid;
+}
+
+/***************************************
+/* Header
+/***************************************/
+
+/* Settings for header. */
+.header {
+  padding-top: 20px;
+}
+
+/* Super bold text used for the name. */
+.text-super-bold {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 900;
+  font-size: 55px;
+}
+
+/* Background color used in header. */
+.header-bg-color {
+  background-color: #fff;
+}
+
+/* Settings for the specific <hr> that is
+   located right after the header. */
+.top-hr {
+  color: #d0c4ab;
+}
+
+/* Setting for the name. */
+.name {
+  margin: 15px 0 0 0;
+  color: #131a2d;
+}
+
+/* Settings for the small text undernieth the
+   name. */
+.name-sub {
+  margin: 0;
+  color: #131a2d;
+  font-weight: 200;
+  font-size: 1.2em;
+}
+
+/* Settings for the logo image. */
+.logo {
+  border-radius: 50px;
+}
+/***************************************
+/* Content
+/***************************************
+/* Creating a little bit of room at the bottom
+    of the page. */
+.container {
+  padding-bottom: 30px;
+  max-width: 960px;
+}
+
+/* Default background color. Used for the body. */
+.default-bg-color {
+  background-color: #131a2d;
+}
+
+/* Used for <h2> header to make the texts thiner. */
+.text-thiner {
+  font-weight: 400;
+}
+
+/* Settings for the big picture image. */
+.big-picture {
+  padding: 20px 0 0 0;
+}
+
+/* Settings for the contents name. */
+.item-name {
+  font-size: 2.8em;
+  font-weight: 300;
+  margin: 10px 0 0 0;
+}
+
+/***************************************
+/* Footer
+/***************************************
+
+/***************************************
+/* Modal
+/***************************************
+/* Changing the text color in modal. */
+.modal {
+  color: #131a2d;
+}
